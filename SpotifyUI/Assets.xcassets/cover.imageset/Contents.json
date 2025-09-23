@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "hi-res-album-cover-art-for-grateful-dead-cornell-5-8-77-v0-2c9jiflz6hv81.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
